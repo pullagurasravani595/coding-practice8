@@ -48,7 +48,7 @@ PUT http://localhost:3000/todos/2/
 Content-Type: application/json
 
 {
-    "todo": "some task"
+    "todo": "Some task"
 }
 ###
 
